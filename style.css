@@ -1,0 +1,23 @@
+body {
+  background-image: url("http://thepatternlibrary.com/img/an.jpg");
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.weather-info {
+  background-color: #03051c;
+  padding: 50px;
+  margin-top: 26vh;
+}
+
+h1 {
+  font-weight: 100;
+  letter-spacing: 1px;
+  font-size: 40px;
+}
+
+h2 {
+  font-weight: 100;
+  font-size: 75px;
+  letter-spacing: 2px;
+}
