@@ -21,3 +21,28 @@ h2 {
   font-size: 75px;
   letter-spacing: 2px;
 }
+
+#unit {
+  border-radius: 0px;
+  background-color: white;
+  color: #03051c;
+  font-weight: 300;
+  border: solid white 1px;
+}
+
+#unit:hover {
+  background-color: #03051c;
+  color: white;
+}
+
+#unit:active {
+  background-color: #0B7E9D;
+  color: #white;
+  font-weight: bolder;
+}
+#unit:focus {
+  outline: none;
+}
+.btn:focus, .btn:active, .btn:visited {
+  outline: none;
+}
